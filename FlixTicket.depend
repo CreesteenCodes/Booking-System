@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715815376 source:c:\users\chris\downloads\flixticket\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<process.h>
+	<limits>
+	<ctime>
+	<regex>
+	<iomanip>
+
