@@ -34,7 +34,7 @@ g++ -std=c++17 -O2 -Wall -o FlixTicket.exe main.cpp
 
 **Using Visual Studio:**
 
-Open FlixTicket.cbp in Code::Blocks or create a new Visual Studio project, then add main.cpp as your source file.
+Open `FlixTicket.cbp` in Code::Blocks or create a new Visual Studio project, then add `main.cpp` as your source file.
 
 # 🧩 Dependencies
 No external libraries required — uses only the **Standard C++ Library**.
