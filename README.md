@@ -3,7 +3,9 @@ A simple C++ **console-based ticketing application** designed as a student proje
 
 # 📝 Overview
 The **FlixTicket System** is a small C++ project that simulates a basic movie ticket booking system in a console environment.
+
 It allows users to **create**, **view**, and **manage movie ticket bookings** using a simple text-based interface.
+
 This project is implemented in a single file, `main.cpp`, and is ideal for learning basic C++ programming concepts such as:
 - Input/output handling
 - Conditional statements
